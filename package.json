@@ -34,5 +34,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "homepage": "https://kml1990.github.io/react-online-shop/"
 }
